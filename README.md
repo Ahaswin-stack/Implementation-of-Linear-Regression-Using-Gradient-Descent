@@ -17,8 +17,10 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 
-RegisterNumber:
+Developed by: Ahaswin.S
+RegisterNumber:212222080002
+/*
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -82,8 +84,7 @@ print("For Population = 35000, we predict a profit of $"+str(round(predict1,0)))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
   
-*/
-```
+
 
 ## Output:
 ![linear regression using gradient descent](sam.png)
