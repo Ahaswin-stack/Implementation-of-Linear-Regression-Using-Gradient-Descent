@@ -93,7 +93,15 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 
 ## Output:
-![linear regression using gradient descent](sam.png)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/b718a612-b9c1-48b9-b8c2-247394d291ac)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/57180152-b144-411c-8565-1422e7b0ded8)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/f3e2a2af-9b7e-484d-b533-d6509382f805)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/0926f662-dd63-4340-8de1-55ac7e6e562c)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/5ebeb201-a93b-4dcd-9f3b-2b96e5606284)
+
+
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/dc8baf95-6e70-4a7c-9c08-bbbd34cca346)
+![image](https://github.com/Ahaswin-stack/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/154393175/ced8ec42-d68a-4816-80e7-814a4ccde095)
 
 
 ## Result:
